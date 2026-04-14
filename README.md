@@ -17,12 +17,12 @@
 
 ## Arcana Rose (Shu)
 2025-04-02<br>
-![Arcana Rose](images/2025-04-02-Arcana_Rose.jpg)
+![Arcana Rose](images/2025-04-05-Arcana_Rose.jpg)
 <br>1000 pieces
 
 ## Symphony of Rustling Leaves (Seiji Fujishiro)
 2021-09-02<br>
-![Symphony of Rustling Leaves](images/2021-09-02-Symphony_of_Rustling_Leaves.jpg)
+![Symphony of Rustling Leaves](images/2021-09-02-Rustling_Leaves_Symphony.jpg)
 <br>1000 pieces
 
 ## Futari Maiko
