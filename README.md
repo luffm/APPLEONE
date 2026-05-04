@@ -25,7 +25,7 @@
 ![Symphony of Rustling Leaves](images/2021-09-02-Rustling_Leaves_Symphony.jpg)
 <br>1000 pieces
 
-## Futari Maiko
+## Futari Maiko (Nobuyoshi Aoyama)
 2021-03-11<br>
 ![Futari Maiko](images/2021-03-11-Futari_Maiko.jpg)
 <br>1000 pieces
